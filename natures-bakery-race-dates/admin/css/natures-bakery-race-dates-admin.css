@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #race-table {
+   text-align: center;
+ }
+
+#notice {
+  background: #fff;
+  border:none;
+  padding: 1em;
+  max-width: 600px;
+}
+
+table#import-races {
+    margin: 1em 0;
+    border: 3px solid #ebebeb;
+    padding: 1em;
+    width: 600px;
+}
